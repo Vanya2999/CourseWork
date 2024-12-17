@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EngineLibrary.CheckCollision" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAgAAAIAAAAAACAABgAAAAAgIAgAIAAAE=</HashCode>
+      <FileName>CheckCollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EngineLibrary.ComponentTransform" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAQAAABACAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>ComponentTransform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EngineLibrary.Content" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Content.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EngineLibrary.DrawingTexture" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DrawingTexture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EngineLibrary.ExecutionScript" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExecutionScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EngineLibrary.GameObject" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAEAAAAAQAAAABAAAQAAIAAEAgAAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EngineLibrary.GameTime" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAQAAABAAABAAAAAAIAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>GameTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EngineLibrary.InputKeyboard" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>InputKeyboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EngineLibrary.TexturesBox" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACAACAAQAAEAQAAAASAAAAAAAAYAAAAAAAA=</HashCode>
+      <FileName>TexturesBox.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EngineLibrary.TextureStorage" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQBAAAgAAAAAAAAEAABAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>TextureStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="EngineLibrary.DirectionAxes" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACBAACAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>DirectionAxes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

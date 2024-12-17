@@ -1,0 +1,33 @@
+﻿<Window x:Class="Maze.StartWindowForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="StartWindow" Height="300" Width="400">
+    <Grid>
+        <!-- Кнопка "Создать сервер" -->
+        <Button Content="Создать сервер"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Height="50"
+                Width="200"
+                Margin="0,50,0,0"
+                Click="CreateServerButton_Click" />
+
+        <!-- Кнопка "Присоединиться к серверу" -->
+        <Button Content="Присоединиться к серверу"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Height="50"
+                Width="200"
+                Margin="0,120,0,0"
+                Click="JoinServerButton_Click" />
+
+        <!-- Кнопка "Выход" -->
+        <Button Content="Выход"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Height="50"
+                Width="200"
+                Margin="0,190,0,0"
+                Click="ExitButton_Click" />
+    </Grid>
+</Window>
